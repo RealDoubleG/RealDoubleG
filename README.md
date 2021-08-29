@@ -8,6 +8,7 @@
 <h2>🎯 You can reach me at:</h2>
     <p>-email: roggersilveira9@gmail.com</p>
     <p>-whatsapp: (11)96809-5431</p>
+<hr>    
    
 
 <div>
@@ -15,10 +16,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RealDoubleG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealDoubleG&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
 
-  <div>
-    <img align="center" heigth="200" witdth="200" src="https://64.media.tumblr.com/fc7eb06f16f4307687b8f4e2fafdc683/tumblr_pm2cyxOYl01vg0r9to1_540.gifv">
+<hr>
+
+  <div align="center">
+    <img heigth="200" witdth="200" src="http://pa1.narvii.com/6448/abc489f1177e698a5903e34f8f5863f230c1df7b_00.gif">
   </div>
  
    ![Snake animation](https://github.com/RealDoubleG/RealDoubleG/blob/output/github-contribution-grid-snake.svg)
