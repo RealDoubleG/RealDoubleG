@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>Hello World, I'm Rogger!!! 🌍</h1>
 
-<!--
-**RealDoubleG/RealDoubleG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🧙 About me:</h2>
+   <p>-I'm taking the first semester of the technical course on systems development at Senai of Jandira.</p>
+   <p>-I really like to program in java.</p> 
+   <p>-I'm taking the last year of the technical computer course at ITB Brasílio Flores de Azevedo.</p>
+  
+<h2>🎯 You can reach me at:</h2>
+    <p>-email: roggersilveira9@gmail.com</p>
+    <p>-whatsapp: (11)96809-5431</p>
+   
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/RealDoubleG">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RealDoubleG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <img align="center" heigth="200" witdth="200" src="https://64.media.tumblr.com/fc7eb06f16f4307687b8f4e2fafdc683/tumblr_pm2cyxOYl01vg0r9to1_540.gifv">
+  </div>
+ 
+   ![Snake animation](https://github.com/RealDoubleG/RealDoubleG/blob/output/github-contribution-grid-snake.svg)
+  
+
