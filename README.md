@@ -5,7 +5,7 @@
    <p>-I really like to program in java.</p> 
    <p>-I'm taking the last year of the technical computer course at ITB Brasílio Flores de Azevedo.</p>
    <p>-I want to study information security.</p>
-   <p>-I looking for my first job</p>
+   <p>-I looking for my first job.</p>
    
 <h2>🎯 You can reach me at:</h2>
     <p>-email: roggersilveira9@gmail.com</p>
