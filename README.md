@@ -33,7 +33,9 @@
 <hr>
 
   <div align="center">
+      <img src="http://pa1.narvii.com/6448/abc489f1177e698a5903e34f8f5863f230c1df7b_00.gif">
   </div>
+   
    ![Snake animation](https://github.com/RealDoubleG/RealDoubleG/blob/output/github-contribution-grid-snake.svg)
   
 
