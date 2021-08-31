@@ -6,7 +6,7 @@
    <p>-I'm taking the last year of the technical computer course at ITB Brasílio Flores de Azevedo.</p>
    <p>-I want to study information security.</p>
    <p>-I looking for my first job.</p>
-   <p a href="https://www.youtube.com/watch?v=EbDMNjT-QpI">-My favorite song: Kanye West - Off The Grid </p>
+   <a href="https://www.youtube.com/watch?v=EbDMNjT-QpI">-My favorite song: Kanye West - Off The Grid
 <h2>🎯 You can reach me at:</h2>
     <p>-email: roggersilveira9@gmail.com</p>
     <p>-whatsapp: (11)96809-5431</p>
