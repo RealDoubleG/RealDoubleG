@@ -1,3 +1,9 @@
+  <div align="center">
+      <img src=http://24.media.tumblr.com/fd7726970ee1140dfeb80be7947548ec/tumblr_muj7mwVpGS1r2dgsfo1_500.gif>
+  </div>
+
+
+
 <h1>🌍 Hello World, I'm Rogger!!!</h1>
 
 <h2>🧙 About me:</h2>
