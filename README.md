@@ -18,7 +18,7 @@
     <p>-whatsapp: (11)96809-5431</p>
 
 <div>
-   <h2>📚 I have some knowledge in:</h2>
+   <h2><img src="https://media2.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif" width="30px"> I have some knowledge in:</h2>
      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
