@@ -3,7 +3,7 @@
   </div>
 
 
-
+<div align="center">
 <h1><img src="https://acegif.com/wp-content/gifs/globe-24.gif" width="30px" > Hello World, I'm Rogger!!!</h1>
 
 <h2><img src="https://freepikpsd.com/media/2019/10/aesthetic-gif-png-10-Free-PNG-Images-Transparent.gif" width="30px"> About me:</h2>
@@ -23,6 +23,7 @@
      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+</div>
 </div>
 
 <hr>    
