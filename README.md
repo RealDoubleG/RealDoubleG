@@ -8,7 +8,7 @@
  <p>Minha música favorita: <a href="https://www.youtube.com/watch?v=LiwDa5rCmYc">Vida Loka, Pt. 1
 </a></p>
 
-<h3><img src="https://i.pinimg.com/originals/f3/c6/e5/f3c6e525a07ef2b1e279f9212e535333.gif" width="30px"> Você pode entrar em contato por:</h3>
+<h3><img src="https://i.pinimg.com/originals/f3/c6/e5/f3c6e525a07ef2b1e279f9212e535333.gif" width="30px"> Você pode entrar em contato por: <img src="https://i.pinimg.com/originals/f3/c6/e5/f3c6e525a07ef2b1e279f9212e535333.gif" width="30px"> </h3>
     <p>email: roggersilveira9@gmail.com</p>
     <p>whatsapp: (11)96809-5431</p>
  
