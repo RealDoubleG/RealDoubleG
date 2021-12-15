@@ -4,7 +4,7 @@
  <p>Estou cursando o primeiro semestre de desenvolvimento de sistemas no SENAi.</p>
  <p>Gosto muito de programar em java.</p>
  <p>Fazendo o último ano do curso técnico de informática no ITB.</p>
- <p>Procurando o primeiro trabalho, me contrata aí.😝</p>
+ <p>Estagiário em desenvolvimento de sistemas - SENAI Jandira</p>
  <p>Minha música favorita: <a href="https://www.youtube.com/watch?v=LiwDa5rCmYc" target="_blank">Vida Loka, Pt. 1
 </a></p>
 
